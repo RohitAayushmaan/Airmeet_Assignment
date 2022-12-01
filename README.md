@@ -2,6 +2,12 @@
 
 pip install djangorestframework
 
+Database Name-college
+
+python manage.py makemigrations
+
+python manage.py migrate
+
 Create Super user- python manage.py createsuperuser
 
 python manage.py runserver
